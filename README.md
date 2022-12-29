@@ -1,1 +1,1 @@
-# c32-project_temple
+# Project Template 26
